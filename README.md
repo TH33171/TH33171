@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Tatyana! <br/><a href="https://github.com/TH33171">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/tatyana-haydar-50802a163/">
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+  - [Azure Active Directory Home Lab](https://github.com/TH33171/LABURL)
+
+<h2> Certifications </h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: https://www.linkedin.com/in/tatyana-haydar-50802a163/
 
 <!--
-**TH33171/TH33171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TH33171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
